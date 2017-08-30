@@ -24,11 +24,16 @@ teams:
       - name: Mr. Sammy Fung
         teamlead: true
         email: sammy@sammy.hk
+      - name: Mr. Marco Cheung
+      - name: Mr. Ram Yeung
+      - name: Ms. Cindy Zhao
   - name: Record
     members:
       - name: Mr. Henry Law
         teamlead: true
         fb: 506551481
+      - name: Mr. Joe Chan
+        fb: 541717939
   - name: Web
     members:
       - name: Mr. Koala Yeung
